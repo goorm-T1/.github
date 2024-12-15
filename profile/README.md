@@ -49,4 +49,11 @@
 
 <img src="https://github.com/user-attachments/assets/b68ba9ca-109b-4944-8ddc-11a091b64075" alt="USER RESEARCH" width="600">
 <img src="https://github.com/user-attachments/assets/8ea2add6-4a73-4fd3-80f9-75ba0fcaa8e7" alt="USER RESEARCH" width="600"> 
+<br>
+<br>
+
+
+### 📌 발표 자료
+[T1_DOSIROCK_presentation.pdf](https://github.com/user-attachments/files/18138901/T1_DOSIROCK_presentation.pdf)
+
 
