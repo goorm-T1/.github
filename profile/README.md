@@ -1,7 +1,7 @@
 # 2024 9oormthon DEEP DIVE Hackathon
   
 ## T1 ; Technology's First League
-|Profile|||||
+|Profile| <img src="https://github.com/user-attachments/assets/d844a274-3e1f-48ab-a1ec-72ee93705c94" alt="USER RESEARCH" width="120">| <img src="https://github.com/user-attachments/assets/1aaaae52-a757-4368-a326-8b61d68895da" alt="USER RESEARCH" width="120">| <img src="https://github.com/user-attachments/assets/eeae0a89-2730-4cb0-a26c-377195bdd0f2" alt="USER RESEARCH" width="120"> | <img src="https://github.com/user-attachments/assets/e26755d3-0ec5-4bd7-8d2f-9ad0e07e606f" alt="USER RESEARCH" width="120">|
 |:------:|:---:|:---:|:---:|:---:|  
 |Name|최정환|박수연|정윤석|김혜진|  
 |Role|PM|Designer|Frontend|Backend/DevOps|
@@ -9,6 +9,7 @@
 </br>  
 
 ![TITLE](https://github.com/user-attachments/assets/a28f5376-6d17-4507-bdb5-38e8de99a493)
+
 
 
 
