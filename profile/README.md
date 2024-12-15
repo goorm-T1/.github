@@ -7,9 +7,12 @@
 |Role|PM|Designer|Frontend|Backend/DevOps|
 |Github|[@spark-o-petit](https://github.com/spark-o-petit)|[@rudin0806](https://github.com/rudin0806)|[@yundol777](https://github.com/yundol777)|[@WZNT-KimHyeJin](https://github.com/WZNT-KimHyeJin)
 </br>  
+<br>
+
+
 
 ![TITLE](https://github.com/user-attachments/assets/a28f5376-6d17-4507-bdb5-38e8de99a493)
-
+<br>
 
 
 
@@ -18,12 +21,12 @@
 공용 공간을 접점으로 하이퍼로컬의 소통 문화를 회복하여 스스로 더 좋은 환경을 만들 수 있도록 돕는다.<br>
 ### “소리를 넘어, 마음을 잇다”
 <br>
+<br>
 
 
 ### 📌 Needs
 층간소음은 많은 사람들이 주 1회 이상 일상생활에 지장을 받는 심각한 문제이나, 현재 명확한 해결책이 없다.<br>
 직접 대화를 시도하거나 보복성 소음을 발생시키는 것은 오히려 상황을 악화시킬 수 있다.
-<img src="https://github.com/user-attachments/assets/298e98e2-82e9-4338-a963-3e42cbe9a78b" alt="USER RESEARCH" width="600">
 <br>
 <br>
 
@@ -38,6 +41,8 @@
   - 주민들은 미리 알고 대비할 수 있어 불편을 줄일 수 있다.
 - **소음에 대한 맥락 제시하기:**
   - 단순한 불평 대신 대략적인 시간대를 제시하여 더 구체적인 소통을 할 수 있다.
+<br>
+<br>
 
 
 ### 📌 구현 화면
