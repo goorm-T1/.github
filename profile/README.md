@@ -59,7 +59,7 @@
 
 <모바일>
 - **어제의 소음 현황 표시 :**
-  - 오늘 소음을 어느정도 느꼈는지 "만족, 보통, 별로" 세 개의 상태 중 선택한다.
+  - 오늘 소음을 어느정도 느꼈는지 "만족, 보통, 불만족" 세 개의 상태 중 선택한다.
   - 선택한 상태값은 다음 날 엘레베이터 스크린에 업로드 된다.
 - **상태메세지 설정 :**
   - 인테리어 공사, 악기 과외 등 소음이 발생하는 시간 정보를 제공함으로써 다른 거주자들에게 양해를 구할 수 있다.
@@ -73,11 +73,17 @@
 ### 📌 구현 화면
 |엘레베이터 스크린 | 모바일 | |
 |:------:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/880859b6-065a-4744-b895-5679eab041b6" alt="USER RESEARCH" width="400">| <img src="https://github.com/user-attachments/assets/b90a86ad-7e64-4982-ac99-a9346849f265" alt="USER RESEARCH" width="400"> |<img src="https://github.com/user-attachments/assets/80900d62-aded-4376-988c-57edbc5b5e33" alt="USER RESEARCH" width="400"> |
+| <img src="https://github.com/user-attachments/assets/966a976f-97d3-45f8-84b6-1951672647a1" alt="USER RESEARCH" width="600">| <img src="https://github.com/user-attachments/assets/1577dfea-5b11-43b0-8db5-22f5de7945e7" alt="USER RESEARCH" width="400"> |<img src="https://github.com/user-attachments/assets/7a3118f9-25cc-48e4-9dec-fc39ba65a209" alt="USER RESEARCH" width="400"> |
 <br>
 <br>
 
 
+### 📌 데모 영상
+### [도시락 데모 영상](https://drive.google.com/file/d/1oUdwVTfpQMTAlurIkxRtwtYISv6UDkdo/view?usp=sharing)
+
+
+<br>
+<br>
 
 
 ### 📌 발표 자료
